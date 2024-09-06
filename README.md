@@ -13,6 +13,8 @@ This repository demonstrates the basic data types available in Solidity using si
 
 - **Structs.sol:** This contract introduces structs, which are custom data structures that allow you to group together variables of different types under a single name.
 
+... and many more to be added
+
 ## Tech language
 
 - Solidity
